@@ -3,7 +3,7 @@ Projet Pico 8
 
 __Authors__ Corentin Monvillers, Mônica Salmazo, Klervy Le Dez
 
-Projet réalisé dans le cadre de la formation chez Ada Tech School
+Projet réalisé dans le cadre de la formation chez Ada Tech School en 7 jours
 _ _ _ _ 
 
 Objectifs du projet
